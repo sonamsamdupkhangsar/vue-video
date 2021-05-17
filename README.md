@@ -1,4 +1,5 @@
 # my-app
+This is the front-end Vue app for videwing and uploading videos.
 
 ## Project setup
 ```
