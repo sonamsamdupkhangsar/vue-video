@@ -1,5 +1,6 @@
 # my-app
-This is the front-end Vue app for videwing and uploading videos.
+This is the front-end Vue app for viewing videos and uploading videos.
+Deployed on Netlify at https://flamboyant-hawking-ec1b79.netlify.app
 
 ## Project setup
 ```
